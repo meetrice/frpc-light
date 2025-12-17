@@ -10,7 +10,30 @@
 [![Tauri](https://img.shields.io/badge/Tauri-2.0-blue)](https://tauri.app/)
 [![React](https://img.shields.io/badge/React-19-61dafb)](https://react.dev/)
 
+![主界面截图](./screenshots/main.png)
+
 </div>
+
+## 📸 应用截图
+
+<table>
+  <tr>
+    <td><img src="./screenshots/server-list.png" alt="服务器列表"/></td>
+    <td><img src="./screenshots/node-config.png" alt="节点配置"/></td>
+  </tr>
+  <tr>
+    <td align="center">服务器列表管理</td>
+    <td align="center">节点配置界面</td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/log-viewer.png" alt="日志查看"/></td>
+    <td><img src="./screenshots/settings.png" alt="设置界面"/></td>
+  </tr>
+  <tr>
+    <td align="center">实时日志查看</td>
+    <td align="center">设置与关于</td>
+  </tr>
+</table>
 
 ## ✨ 功能特性
 
